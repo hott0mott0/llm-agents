@@ -1,0 +1,801 @@
+- generic [active] [ref=e1]:
+  - list [ref=e4]:
+    - listitem [ref=e5]:
+      - generic [ref=e6]:
+        - generic:
+          - generic:
+            - generic:
+              - paragraph [ref=e7]: お気に入り
+              - list [ref=e8]:
+                - listitem [ref=e9]:
+                  - link "物件" [ref=e10] [cursor=pointer]:
+                    - /url: /jj/common/service/JJ901FM203/?ar=030&bs=040&cts=01
+                    - generic [ref=e11]: 物件
+                - listitem [ref=e12]:
+                  - link "会社" [ref=e13] [cursor=pointer]:
+                    - /url: /jj/common/service/JJ901FM203/?ar=030&bs=040&cts=02
+                    - generic [ref=e14]: 会社
+                - listitem [ref=e15]:
+                  - link "検索条件" [ref=e16] [cursor=pointer]:
+                    - /url: javascript:void(0);
+                    - generic [ref=e17]: 検索条件
+    - listitem [ref=e18]:
+      - list [ref=e19]:
+        - listitem [ref=e20]:
+          - link "閲覧履歴" [ref=e21] [cursor=pointer]:
+            - /url: javascript:void(0);
+            - generic [ref=e22]: 閲覧履歴
+    - listitem [ref=e24]:
+      - list [ref=e25]:
+        - listitem [ref=e26]:
+          - link "会員登録" [ref=e27] [cursor=pointer]:
+            - /url: /jj/common/common/JJ901FK101/showMemRegist/
+            - generic [ref=e28]: 会員登録
+        - listitem [ref=e29]:
+          - link "ログイン" [ref=e30] [cursor=pointer]:
+            - /url: /jj/common/common/JJ901FK101/showLogin/
+            - generic [ref=e31]: ログイン
+  - generic [ref=e34]:
+    - paragraph [ref=e36]: 宇治駅（東京都）周辺で賃貸住宅[賃貸マンション・賃貸アパート]を借りるなら、お部屋探し物件情報サイトSUUMO(スーモ)賃貸
+    - generic [ref=e37]:
+      - generic [ref=e38]:
+        - link "SUUMO(スーモ)" [ref=e40] [cursor=pointer]:
+          - /url: /
+          - img "SUUMO(スーモ)" [ref=e41]
+        - generic [ref=e42]:
+          - link "全国へ" [ref=e44] [cursor=pointer]:
+            - /url: /
+          - generic [ref=e45]: 関東版
+      - list [ref=e47]:
+        - listitem [ref=e48]:
+          - generic [ref=e49]:
+            - term [ref=e50]: 借りる
+            - definition [ref=e51]:
+              - link "賃貸" [ref=e53] [cursor=pointer]:
+                - /url: /chintai/
+        - listitem [ref=e54]:
+          - generic [ref=e55]:
+            - term [ref=e56]: マンションを買う
+            - definition [ref=e57]:
+              - link "新築" [ref=e59] [cursor=pointer]:
+                - /url: /ms/shinchiku/
+              - link "中古" [ref=e61] [cursor=pointer]:
+                - /url: /ms/chuko/
+        - listitem [ref=e62]:
+          - generic [ref=e63]:
+            - term [ref=e64]: 一戸建てを買う
+            - definition [ref=e65]:
+              - link "新築" [ref=e67] [cursor=pointer]:
+                - /url: /ikkodate/
+              - link "中古" [ref=e69] [cursor=pointer]:
+                - /url: /chukoikkodate/
+        - listitem [ref=e70]:
+          - generic [ref=e71]:
+            - term [ref=e72]: 建てる
+            - definition [ref=e73]:
+              - link "注文住宅" [ref=e75] [cursor=pointer]:
+                - /url: /chumon/
+              - link "土地" [ref=e77] [cursor=pointer]:
+                - /url: /tochi/
+        - listitem [ref=e78]:
+          - generic [ref=e79]:
+            - term [ref=e80]: リフォームする
+            - definition [ref=e81]:
+              - link "リフォーム" [ref=e83] [cursor=pointer]:
+                - /url: /remodel/
+        - listitem [ref=e84]:
+          - generic [ref=e85]:
+            - term [ref=e86]: 売る
+            - definition [ref=e87]:
+              - link "売却査定" [ref=e89] [cursor=pointer]:
+                - /url: /baikyaku/
+        - listitem [ref=e90]:
+          - generic [ref=e91]:
+            - term [ref=e92]: 住まいの相談
+            - definition [ref=e93]:
+              - link "講座/相談" [ref=e95] [cursor=pointer]:
+                - /url: https://www.suumocounter.jp/?vos=dsmcrecb20110926001
+        - listitem [ref=e96]:
+          - link "暮らし ▼" [ref=e99] [cursor=pointer]:
+            - /url: javascript:void(0);
+  - list [ref=e102]:
+    - listitem [ref=e103]:
+      - link "不動産・住宅サイト SUUMO" [ref=e104] [cursor=pointer]:
+        - /url: /
+    - listitem [ref=e105]:
+      - text: ">"
+      - link "賃貸" [ref=e106] [cursor=pointer]:
+        - /url: /chintai/
+    - listitem [ref=e107]:
+      - text: ">"
+      - link "東京都" [ref=e108] [cursor=pointer]:
+        - /url: /chintai/tokyo/
+    - listitem [ref=e109]:
+      - text: ">"
+      - link "宇治市" [ref=e110] [cursor=pointer]:
+        - /url: /chintai/kyoto/sc_uji/
+    - listitem [ref=e111]: "> 宇治駅の賃貸情報"
+  - generic [ref=e113]:
+    - heading "宇治駅エリア・他周辺駅エリアから探す賃貸住宅[賃貸マンション・アパート]情報 検索結果" [level=1] [ref=e115]
+    - generic [ref=e116]:
+      - paragraph [ref=e117]: 宇治駅（東京都）エリア・他周辺駅エリアの物件をご紹介！賃貸マンション・賃貸アパート・貸家などの賃貸住宅を借りるなら、お部屋探しのSUUMO（スーモ）。物件情報の他、宇治駅の地域情報（口コミ）などお部屋探し・お家探しに役立つ情報を掲載。宇治駅周辺の賃貸マンション・賃貸アパート情報探しをサポートします。
+      - generic [ref=e119]:
+        - term [ref=e120]: 建物の種類を絞り込む：
+        - definition [ref=e121]:
+          - list [ref=e122]:
+            - listitem [ref=e123]:
+              - link "賃貸マンション" [ref=e124] [cursor=pointer]:
+                - /url: /chintai/tokyo/ek_04180/mansion/?rn=2160
+              - text: "|"
+            - listitem [ref=e125]:
+              - link "アパート" [ref=e126] [cursor=pointer]:
+                - /url: /chintai/tokyo/ek_04180/apartment/?rn=2160
+              - text: "|"
+            - listitem [ref=e127]:
+              - link "賃貸一戸建て" [ref=e128] [cursor=pointer]:
+                - /url: /chintai/tokyo/ek_04180/nj_102/?rn=2160
+      - generic [ref=e129]:
+        - generic [ref=e130]:
+          - generic [ref=e131]:
+            - list [ref=e133]:
+              - listitem [ref=e134]:
+                - generic [ref=e135]: 建物ごとに表示
+            - generic [ref=e138]: 条件にあう物件がありません。条件を変更して再度検索してください。
+          - generic [ref=e140]:
+            - generic [ref=e141]:
+              - heading "関東で人気のこだわりテーマから探す" [level=2] [ref=e142]
+              - generic [ref=e143]: PR
+            - generic [ref=e145]:
+              - list:
+                - listitem [ref=e146]:
+                  - link "リフォーム済み" [ref=e147] [cursor=pointer]:
+                    - /url: /tokushu/selection/chintai_kanto/th_6.html
+                    - generic [ref=e149]: リフォーム済み
+                  - paragraph [ref=e150]: キレイでおトクに住みたい人にオススメ
+                - listitem [ref=e151]:
+                  - link "デザイナーズ物件" [ref=e152] [cursor=pointer]:
+                    - /url: /tokushu/selection/chintai_kanto/th_1.html
+                    - generic [ref=e154]: デザイナーズ物件
+                  - paragraph [ref=e155]: デザイナーズなら、部屋で過ごす時間が楽しくなる
+                - listitem [ref=e156]:
+                  - link "新築&築浅" [ref=e157] [cursor=pointer]:
+                    - /url: /tokushu/selection/chintai_kanto/th_2.html
+                    - generic [ref=e159]: 新築&築浅
+                  - paragraph [ref=e160]: 新生活は、やっぱりキレイなお部屋で始めたい！
+                - listitem [ref=e161]:
+                  - link "礼金ゼロ" [ref=e162] [cursor=pointer]:
+                    - /url: /tokushu/selection/chintai_kanto/th_13.html
+                    - generic [ref=e164]: 礼金ゼロ
+                  - paragraph [ref=e165]: 初期費用をおさえておトクに入居♪
+          - generic [ref=e166]:
+            - heading "宇治駅に関する情報" [level=2] [ref=e168]
+            - generic [ref=e169]:
+              - generic [ref=e171]:
+                - term [ref=e172]: 本日新着の宇治駅の新着物件
+                - definition [ref=e173]:
+                  - generic [ref=e174]:
+                    - table [ref=e175]:
+                      - rowgroup [ref=e176]:
+                        - row "インペリアルフラット武蔵小山 1… 東京都品川区西中延１" [ref=e177]:
+                          - rowheader "インペリアルフラット武蔵小山 1…" [ref=e178]:
+                            - link "インペリアルフラット武蔵小山 1…" [ref=e179] [cursor=pointer]:
+                              - /url: /chintai/bc_100502663117/
+                          - cell "東京都品川区西中延１" [ref=e180]
+                        - row "エスポワール京島 2階 東京都墨田区京島１" [ref=e181]:
+                          - rowheader "エスポワール京島 2階" [ref=e182]:
+                            - link "エスポワール京島 2階" [ref=e183] [cursor=pointer]:
+                              - /url: /chintai/bc_100502645136/
+                          - cell "東京都墨田区京島１" [ref=e184]
+                        - row "ＬＯＨＡＳ 等々力 1階 東京都世田谷区等々力３" [ref=e185]:
+                          - rowheader "ＬＯＨＡＳ 等々力 1階" [ref=e186]:
+                            - link "ＬＯＨＡＳ 等々力 1階" [ref=e187] [cursor=pointer]:
+                              - /url: /chintai/bc_100502707870/
+                          - cell "東京都世田谷区等々力３" [ref=e188]
+                        - row "ACPレジデンス錦糸町 4階 東京都墨田区太平３" [ref=e189]:
+                          - rowheader "ACPレジデンス錦糸町 4階" [ref=e190]:
+                            - link "ACPレジデンス錦糸町 4階" [ref=e191] [cursor=pointer]:
+                              - /url: /chintai/bc_100502711407/
+                          - cell "東京都墨田区太平３" [ref=e192]
+                        - row "ブライズ大森東クアトロ 2階 東京都大田区大森東３" [ref=e193]:
+                          - rowheader "ブライズ大森東クアトロ 2階" [ref=e194]:
+                            - link "ブライズ大森東クアトロ 2階" [ref=e195] [cursor=pointer]:
+                              - /url: /chintai/bc_100502712271/
+                          - cell "東京都大田区大森東３" [ref=e196]
+                    - table [ref=e197]:
+                      - rowgroup [ref=e198]:
+                        - row "清澄白河駅 1LDK 4階 東京都江東区三好３" [ref=e199]:
+                          - rowheader "清澄白河駅 1LDK 4階" [ref=e200]:
+                            - link "清澄白河駅 1LDK 4階" [ref=e201] [cursor=pointer]:
+                              - /url: /chintai/bc_100502568372/
+                          - cell "東京都江東区三好３" [ref=e202]
+                        - row "パークハビオ新橋 2階 東京都港区新橋５" [ref=e203]:
+                          - rowheader "パークハビオ新橋 2階" [ref=e204]:
+                            - link "パークハビオ新橋 2階" [ref=e205] [cursor=pointer]:
+                              - /url: /chintai/bc_100502649878/
+                          - cell "東京都港区新橋５" [ref=e206]
+                        - row "イトーピア大島ステーションコー… 東京都江東区大島５" [ref=e207]:
+                          - rowheader "イトーピア大島ステーションコー…" [ref=e208]:
+                            - link "イトーピア大島ステーションコー…" [ref=e209] [cursor=pointer]:
+                              - /url: /chintai/bc_100502547440/
+                          - cell "東京都江東区大島５" [ref=e210]
+                        - row "レオネクストＨＯＳＯＹＡII 2階 東京都足立区西綾瀬３" [ref=e211]:
+                          - rowheader "レオネクストＨＯＳＯＹＡII 2階" [ref=e212]:
+                            - link "レオネクストＨＯＳＯＹＡII 2階" [ref=e213] [cursor=pointer]:
+                              - /url: /chintai/bc_100502709967/
+                          - cell "東京都足立区西綾瀬３" [ref=e214]
+                        - row "Ｎーｓｔａｇｅ両国 8階 東京都墨田区両国４" [ref=e215]:
+                          - rowheader "Ｎーｓｔａｇｅ両国 8階" [ref=e216]:
+                            - link "Ｎーｓｔａｇｅ両国 8階" [ref=e217] [cursor=pointer]:
+                              - /url: /chintai/bc_100502706045/
+                          - cell "東京都墨田区両国４" [ref=e218]
+              - generic [ref=e220]:
+                - term [ref=e221]: 近隣エリアの物件
+                - definition [ref=e222]:
+                  - table [ref=e223]:
+                    - rowgroup [ref=e224]:
+                      - row "メゾンベール 1階 神奈川県横浜市青葉区奈良１" [ref=e225]:
+                        - rowheader "メゾンベール 1階" [ref=e226]:
+                          - link "メゾンベール 1階" [ref=e227] [cursor=pointer]:
+                            - /url: /chintai/bc_100494112420/
+                        - cell "神奈川県横浜市青葉区奈良１" [ref=e228]
+                      - row "アーリーガーデン横濱山手 1 2階 神奈川県横浜市中区山手町" [ref=e229]:
+                        - rowheader "アーリーガーデン横濱山手 1 2階" [ref=e230]:
+                          - link "アーリーガーデン横濱山手 1 2階" [ref=e231] [cursor=pointer]:
+                            - /url: /chintai/bc_100502654663/
+                        - cell "神奈川県横浜市中区山手町" [ref=e232]
+                      - row "ビューテラス 2階 神奈川県川崎市宮前区梶ケ谷" [ref=e233]:
+                        - rowheader "ビューテラス 2階" [ref=e234]:
+                          - link "ビューテラス 2階" [ref=e235] [cursor=pointer]:
+                            - /url: /chintai/bc_100485124945/
+                        - cell "神奈川県川崎市宮前区梶ケ谷" [ref=e236]
+                      - row "グリーンコテージＤ 1階 神奈川県厚木市長谷" [ref=e237]:
+                        - rowheader "グリーンコテージＤ 1階" [ref=e238]:
+                          - link "グリーンコテージＤ 1階" [ref=e239] [cursor=pointer]:
+                            - /url: /chintai/bc_100499259914/
+                        - cell "神奈川県厚木市長谷" [ref=e240]
+                      - row "堀ノ内駅 1K 1階 神奈川県横須賀市三春町３" [ref=e241]:
+                        - rowheader "堀ノ内駅 1K 1階" [ref=e242]:
+                          - link "堀ノ内駅 1K 1階" [ref=e243] [cursor=pointer]:
+                            - /url: /chintai/bc_100495269550/
+                        - cell "神奈川県横須賀市三春町３" [ref=e244]
+          - generic [ref=e248]:
+            - term [ref=e249]:
+              - link "宇治駅の不動産" [ref=e250] [cursor=pointer]:
+                - /url: /tokyo/ek_04180/?rnTmp=2160
+              - text: を別の種別から探す
+            - definition [ref=e251]:
+              - link "新築マンション" [ref=e252] [cursor=pointer]:
+                - /url: /ms/shinchiku/tokyo/ek_04180/?rn=2160
+              - text: "|"
+              - link "中古マンション" [ref=e253] [cursor=pointer]:
+                - /url: /ms/chuko/tokyo/ek_04180/?rn=2160
+              - text: "|"
+              - link "新築一戸建て" [ref=e254] [cursor=pointer]:
+                - /url: /ikkodate/tokyo/ek_04180/?rn=2160
+              - text: "|"
+              - link "中古一戸建て" [ref=e255] [cursor=pointer]:
+                - /url: /chukoikkodate/tokyo/ek_04180/?rn=2160
+              - text: "|"
+              - link "土地" [ref=e256] [cursor=pointer]:
+                - /url: /tochi/tokyo/ek_04180/?rn=2160
+        - generic [ref=e257]:
+          - img "SUUMOは不動産ポータルサイトにおける掲載物件数No.1" [ref=e259]
+          - generic [ref=e260]:
+            - paragraph [ref=e261]: 条件保存・新着メール登録
+            - generic [ref=e263]:
+              - paragraph [ref=e265]: 京阪宇治線／宇治
+              - generic [ref=e266]:
+                - generic [ref=e267]: この条件で
+                - list [ref=e268]:
+                  - listitem [ref=e269]:
+                    - link "保存する" [ref=e270] [cursor=pointer]:
+                      - /url: javascript:void(0);
+                  - listitem [ref=e271]:
+                    - link "新着メールを登録" [ref=e272] [cursor=pointer]:
+                      - /url: javascript:void(0);
+          - generic [ref=e274]:
+            - generic [ref=e275]: 検索条件変更
+            - generic [ref=e277]:
+              - generic [ref=e278]:
+                - term [ref=e279]: 沿線・駅
+                - definition [ref=e280]:
+                  - generic [ref=e281]:
+                    - generic [ref=e282]: 東京都
+                    - list [ref=e286]:
+                      - listitem [ref=e287]:
+                        - link "沿線を変更" [ref=e288] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                          - text: 沿線を変更
+                      - listitem [ref=e290]:
+                        - link "駅を変更" [ref=e291] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                          - text: 駅を変更
+              - generic [ref=e293]:
+                - term [ref=e294]: 絞り込み条件
+                - definition [ref=e295]:
+                  - generic [ref=e296]:
+                    - term [ref=e297]: 賃料
+                    - definition [ref=e298]:
+                      - generic [ref=e299]:
+                        - generic [ref=e300]:
+                          - combobox [ref=e301]:
+                            - option "下限なし" [selected]
+                            - option "3万円"
+                            - option "3.5万円"
+                            - option "4万円"
+                            - option "4.5万円"
+                            - option "5万円"
+                            - option "5.5万円"
+                            - option "6万円"
+                            - option "6.5万円"
+                            - option "7万円"
+                            - option "7.5万円"
+                            - option "8万円"
+                            - option "8.5万円"
+                            - option "9万円"
+                            - option "9.5万円"
+                            - option "10万円"
+                            - option "10.5万円"
+                            - option "11万円"
+                            - option "11.5万円"
+                            - option "12万円"
+                            - option "12.5万円"
+                            - option "13万円"
+                            - option "13.5万円"
+                            - option "14万円"
+                            - option "14.5万円"
+                            - option "15万円"
+                            - option "15.5万円"
+                            - option "16万円"
+                            - option "16.5万円"
+                            - option "17万円"
+                            - option "17.5万円"
+                            - option "18万円"
+                            - option "18.5万円"
+                            - option "19万円"
+                            - option "19.5万円"
+                            - option "20万円"
+                            - option "21万円"
+                            - option "22万円"
+                            - option "23万円"
+                            - option "24万円"
+                            - option "25万円"
+                            - option "26万円"
+                            - option "27万円"
+                            - option "28万円"
+                            - option "29万円"
+                            - option "30万円"
+                            - option "35万円"
+                            - option "40万円"
+                            - option "50万円"
+                            - option "100万円"
+                          - generic [ref=e302]: 〜
+                          - combobox [ref=e303]:
+                            - option "上限なし" [selected]
+                            - option "3万円"
+                            - option "3.5万円"
+                            - option "4万円"
+                            - option "4.5万円"
+                            - option "5万円"
+                            - option "5.5万円"
+                            - option "6万円"
+                            - option "6.5万円"
+                            - option "7万円"
+                            - option "7.5万円"
+                            - option "8万円"
+                            - option "8.5万円"
+                            - option "9万円"
+                            - option "9.5万円"
+                            - option "10万円"
+                            - option "10.5万円"
+                            - option "11万円"
+                            - option "11.5万円"
+                            - option "12万円"
+                            - option "12.5万円"
+                            - option "13万円"
+                            - option "13.5万円"
+                            - option "14万円"
+                            - option "14.5万円"
+                            - option "15万円"
+                            - option "15.5万円"
+                            - option "16万円"
+                            - option "16.5万円"
+                            - option "17万円"
+                            - option "17.5万円"
+                            - option "18万円"
+                            - option "18.5万円"
+                            - option "19万円"
+                            - option "19.5万円"
+                            - option "20万円"
+                            - option "21万円"
+                            - option "22万円"
+                            - option "23万円"
+                            - option "24万円"
+                            - option "25万円"
+                            - option "26万円"
+                            - option "27万円"
+                            - option "28万円"
+                            - option "29万円"
+                            - option "30万円"
+                            - option "35万円"
+                            - option "40万円"
+                            - option "50万円"
+                            - option "100万円"
+                        - list [ref=e305]:
+                          - listitem [ref=e306]:
+                            - checkbox "管理費・共益費込み" [ref=e307] [cursor=pointer]
+                            - generic [ref=e308] [cursor=pointer]: 管理費・共益費込み
+                          - listitem [ref=e309]:
+                            - checkbox "礼金なし" [ref=e310] [cursor=pointer]
+                            - generic [ref=e311] [cursor=pointer]: 礼金なし
+                          - listitem [ref=e312]:
+                            - checkbox "敷金・保証金なし" [ref=e313] [cursor=pointer]
+                            - generic [ref=e314] [cursor=pointer]: 敷金・保証金なし
+                  - generic [ref=e315]:
+                    - term [ref=e316]: 間取りタイプ
+                    - definition [ref=e317]:
+                      - generic [ref=e319]:
+                        - list [ref=e320]:
+                          - listitem [ref=e321]:
+                            - checkbox "ワンルーム" [ref=e322] [cursor=pointer]
+                            - generic [ref=e323] [cursor=pointer]: ワンルーム
+                        - list [ref=e324]:
+                          - listitem [ref=e325]:
+                            - checkbox "1K" [ref=e326] [cursor=pointer]
+                            - generic [ref=e327] [cursor=pointer]: 1K
+                          - listitem [ref=e328]:
+                            - checkbox "1DK" [ref=e329] [cursor=pointer]
+                            - generic [ref=e330] [cursor=pointer]: 1DK
+                        - list [ref=e331]:
+                          - listitem [ref=e332]:
+                            - checkbox "1LDK" [ref=e333] [cursor=pointer]
+                            - generic [ref=e334] [cursor=pointer]: 1LDK
+                          - listitem [ref=e335]:
+                            - checkbox "2K" [ref=e336] [cursor=pointer]
+                            - generic [ref=e337] [cursor=pointer]: 2K
+                        - list [ref=e338]:
+                          - listitem [ref=e339]:
+                            - checkbox "2DK" [ref=e340] [cursor=pointer]
+                            - generic [ref=e341] [cursor=pointer]: 2DK
+                          - listitem [ref=e342]:
+                            - checkbox "2LDK" [ref=e343] [cursor=pointer]
+                            - generic [ref=e344] [cursor=pointer]: 2LDK
+                        - list [ref=e345]:
+                          - listitem [ref=e346]:
+                            - checkbox "3K" [ref=e347] [cursor=pointer]
+                            - generic [ref=e348] [cursor=pointer]: 3K
+                          - listitem [ref=e349]:
+                            - checkbox "3DK" [ref=e350] [cursor=pointer]
+                            - generic [ref=e351] [cursor=pointer]: 3DK
+                        - list [ref=e352]:
+                          - listitem [ref=e353]:
+                            - checkbox "3LDK" [ref=e354] [cursor=pointer]
+                            - generic [ref=e355] [cursor=pointer]: 3LDK
+                          - listitem [ref=e356]:
+                            - checkbox "4K" [ref=e357] [cursor=pointer]
+                            - generic [ref=e358] [cursor=pointer]: 4K
+                        - list [ref=e359]:
+                          - listitem [ref=e360]:
+                            - checkbox "4DK" [ref=e361] [cursor=pointer]
+                            - generic [ref=e362] [cursor=pointer]: 4DK
+                          - listitem [ref=e363]:
+                            - checkbox "4LDK" [ref=e364] [cursor=pointer]
+                            - generic [ref=e365] [cursor=pointer]: 4LDK
+                        - list [ref=e366]:
+                          - listitem [ref=e367]:
+                            - checkbox "5K以上" [ref=e368] [cursor=pointer]
+                            - generic [ref=e369] [cursor=pointer]: 5K以上
+                  - generic [ref=e370]:
+                    - term [ref=e371]: 建物の種類
+                    - definition [ref=e372]:
+                      - list [ref=e375]:
+                        - listitem [ref=e376]:
+                          - checkbox "マンション" [ref=e377] [cursor=pointer]
+                          - generic [ref=e378] [cursor=pointer]: マンション
+                        - listitem [ref=e379]:
+                          - checkbox "アパート" [ref=e380] [cursor=pointer]
+                          - generic [ref=e381] [cursor=pointer]: アパート
+                        - listitem [ref=e382]:
+                          - checkbox "一戸建て・その他" [ref=e383] [cursor=pointer]
+                          - generic [ref=e384] [cursor=pointer]: 一戸建て・その他
+                  - generic [ref=e385]:
+                    - term [ref=e386]: 駅徒歩
+                    - definition [ref=e387]:
+                      - combobox [ref=e390]:
+                        - option "1分以内"
+                        - option "5分以内"
+                        - option "7分以内"
+                        - option "10分以内"
+                        - option "15分以内"
+                        - option "20分以内"
+                        - option "指定しない" [selected]
+                  - generic [ref=e391]:
+                    - term [ref=e392]: 専有面積
+                    - definition [ref=e393]:
+                      - generic [ref=e395]:
+                        - combobox [ref=e396]:
+                          - option "下限なし" [selected]
+                          - option "20m2"
+                          - option "25m2"
+                          - option "30m2"
+                          - option "35m2"
+                          - option "40m2"
+                          - option "45m2"
+                          - option "50m2"
+                          - option "55m2"
+                          - option "60m2"
+                          - option "65m2"
+                          - option "70m2"
+                          - option "80m2"
+                          - option "90m2"
+                          - option "100m2"
+                        - generic [ref=e397]: 〜
+                        - combobox [ref=e398]:
+                          - option "20m2"
+                          - option "25m2"
+                          - option "30m2"
+                          - option "35m2"
+                          - option "40m2"
+                          - option "45m2"
+                          - option "50m2"
+                          - option "55m2"
+                          - option "60m2"
+                          - option "65m2"
+                          - option "70m2"
+                          - option "80m2"
+                          - option "90m2"
+                          - option "100m2"
+                          - option "上限なし" [selected]
+                  - generic [ref=e399]:
+                    - term [ref=e400]: 築年数
+                    - definition [ref=e401]:
+                      - combobox [ref=e404]:
+                        - option "新築"
+                        - option "1年以内"
+                        - option "3年以内"
+                        - option "5年以内"
+                        - option "7年以内"
+                        - option "10年以内"
+                        - option "15年以内"
+                        - option "20年以内"
+                        - option "25年以内"
+                        - option "30年以内"
+                        - option "指定しない" [selected]
+                  - generic [ref=e405]:
+                    - term [ref=e406]: こだわり条件
+                    - definition [ref=e407]:
+                      - list [ref=e410]:
+                        - listitem [ref=e411]:
+                          - checkbox "駐車場あり" [ref=e412] [cursor=pointer]
+                          - generic [ref=e413] [cursor=pointer]: 駐車場あり
+                        - listitem [ref=e414]:
+                          - checkbox "バス・トイレ別" [ref=e415] [cursor=pointer]
+                          - generic [ref=e416] [cursor=pointer]: バス・トイレ別
+                        - listitem [ref=e417]:
+                          - checkbox "ペット相談" [ref=e418] [cursor=pointer]
+                          - generic [ref=e419] [cursor=pointer]: ペット相談
+                        - listitem [ref=e420]:
+                          - checkbox "2階以上住戸" [ref=e421] [cursor=pointer]
+                          - generic [ref=e422] [cursor=pointer]: 2階以上住戸
+                        - listitem [ref=e423]:
+                          - checkbox "室内洗濯機置場" [ref=e424] [cursor=pointer]
+                          - generic [ref=e425] [cursor=pointer]: 室内洗濯機置場
+                        - listitem [ref=e426]:
+                          - checkbox "エアコン付" [ref=e427] [cursor=pointer]
+                          - generic [ref=e428] [cursor=pointer]: エアコン付
+                        - listitem [ref=e429]:
+                          - checkbox "オートロック" [ref=e430] [cursor=pointer]
+                          - generic [ref=e431] [cursor=pointer]: オートロック
+                        - listitem [ref=e432]:
+                          - checkbox "フローリング" [ref=e433] [cursor=pointer]
+                          - generic [ref=e434] [cursor=pointer]: フローリング
+                        - listitem [ref=e435]:
+                          - checkbox "間取り図付" [ref=e436] [cursor=pointer]
+                          - generic [ref=e437] [cursor=pointer]: 間取り図付
+                        - listitem [ref=e438]:
+                          - checkbox "物件動画付き" [ref=e439] [cursor=pointer]
+                          - generic [ref=e440] [cursor=pointer]: 物件動画付き
+                        - listitem [ref=e441]:
+                          - checkbox "パノラマ付き" [ref=e442] [cursor=pointer]
+                          - generic [ref=e443] [cursor=pointer]: パノラマ付き
+                        - listitem [ref=e444]:
+                          - checkbox "定期借家を含まない" [ref=e445] [cursor=pointer]
+                          - generic [ref=e446] [cursor=pointer]: 定期借家を含まない
+                  - generic [ref=e447]:
+                    - term [ref=e448]: フリーワード
+                    - definition [ref=e449]:
+                      - textbox [ref=e452]:
+                        - /placeholder: 例）浴室乾燥機 ディンプルキー
+                  - list [ref=e455]:
+                    - listitem [ref=e456]:
+                      - link "さらに条件を追加する" [ref=e457] [cursor=pointer]:
+                        - /url: javascript:void(0);
+                        - text: さらに条件を追加する
+                    - listitem [ref=e459]:
+                      - link "この条件で検索する" [ref=e460] [cursor=pointer]:
+                        - /url: javascript:void(0);
+          - list [ref=e462]:
+            - listitem [ref=e463]:
+              - link [ref=e464] [cursor=pointer]:
+                - /url: "/jj/common/parts/JJ901FJ901/click?url=f99217fe212f23879fa13e5d8580b05195529c91796f01d2917acd276914fb579fe4eeab245d12ba308f6771182e164e7b55f072d405a7e1&fmlg=b001&ba=20094384 "
+            - listitem [ref=e465]:
+              - link [ref=e466] [cursor=pointer]:
+                - /url: "/jj/common/parts/JJ901FJ901/click?url=f99217fe212f23879fa13e5d8580b05195529c91796f01d2917acd276914fb579fe4eeab245d12ba0fa8d11333de809f1867a8883c395a5c&fmlg=b001&ba=20099104 "
+            - listitem [ref=e467]:
+              - link "シャーメゾンはシャーメゾンショップで！" [ref=e468] [cursor=pointer]:
+                - /url: "/jj/common/parts/JJ901FJ901/click?url=f99217fe212f23879fa13e5d8580b05195529c91796f01d2917acd276914fb579fe4eeab245d12bab1dd4d9b8a406e5afffa44bff8be98c5&fmlg=b001&ba=20010880 "
+                - img "シャーメゾンはシャーメゾンショップで！" [ref=e469]
+            - listitem [ref=e470]:
+              - link "積水ハウス品質の賃貸住宅" [ref=e471] [cursor=pointer]:
+                - /url: "/jj/common/parts/JJ901FJ901/click?url=f99217fe212f23879fa13e5d8580b05195529c91796f01d2917acd276914fb579fe4eeab245d12bab1dd4d9b8a406e5afffa44bff8be98c5&fmlg=b001&ba=20016613 "
+                - img "積水ハウス品質の賃貸住宅" [ref=e472]
+          - generic [ref=e473]:
+            - generic [ref=e475]: こだわりのテーマから探す
+            - list [ref=e478]:
+              - listitem [ref=e479]:
+                - link "学生向け物件" [ref=e480] [cursor=pointer]:
+                  - /url: //gakusei.suumo.jp/chintai/kanto/
+              - listitem [ref=e481]:
+                - link "新婚・カップル向け物件" [ref=e482] [cursor=pointer]:
+                  - /url: //bridal.suumo.jp/chintai/kanto/
+              - listitem [ref=e483]:
+                - link "動画付き物件" [ref=e484] [cursor=pointer]:
+                  - /url: /tokushu/cm/chintai_kanto/
+              - listitem [ref=e485]:
+                - link "転勤用即入居可物件" [ref=e486] [cursor=pointer]:
+                  - /url: /tokushu/tenkin/chintai/kanto/
+          - generic [ref=e487]:
+            - generic [ref=e489]: 建物から探す
+            - list [ref=e491]:
+              - listitem [ref=e492]:
+                - link "注目の物件" [ref=e493] [cursor=pointer]:
+                  - /url: /jj/chintai/top/FR301FA040/?ar=030&bs=040
+                  - generic [ref=e496]: 注目の物件
+              - listitem [ref=e497]:
+                - link "新築セレクション" [ref=e498] [cursor=pointer]:
+                  - /url: /jj/chintai/top/FR301FA050/?ar=030&bs=040
+                  - generic [ref=e501]: 新築セレクション
+              - listitem [ref=e502]:
+                - link "ハイグレード賃貸物件特集" [ref=e503] [cursor=pointer]:
+                  - /url: /jj/chintai/top/FR301FA080/?ar=030&bs=040
+                  - generic [ref=e506]: ハイグレード賃貸物件特集
+          - generic [ref=e507]:
+            - generic [ref=e509]: 定番の人気テーマから探す
+            - list [ref=e511]:
+              - listitem [ref=e512]:
+                - link "デザイナーズ賃貸物件特集 デザイナーズ賃貸物件特集" [ref=e513] [cursor=pointer]:
+                  - /url: /tokushu/selection/chintai_kanto/th_1.html
+                  - generic [ref=e516]: デザイナーズ賃貸物件特集
+                  - generic [ref=e518]: デザイナーズ賃貸物件特集
+              - listitem [ref=e519]:
+                - link "家具・家電付き賃貸物件特集 家具・家電付き賃貸物件特集" [ref=e520] [cursor=pointer]:
+                  - /url: /tokushu/selection/chintai_kanto/th_35.html
+                  - generic [ref=e523]: 家具・家電付き賃貸物件特集
+                  - generic [ref=e525]: 家具・家電付き賃貸物件特集
+              - listitem [ref=e526]:
+                - link "ほかの特集も見る" [ref=e530] [cursor=pointer]:
+                  - /url: /tokushu/selection/chintai_kanto/
+  - generic [ref=e531]:
+    - paragraph [ref=e534]: 宇治駅(東京都)付近や徒歩圏内でご希望の設備や間取りの賃借物件は見つかりましたか？エリアや駅など少し条件を変更して検索してみてはいかがでしょうか。あなたの理想の生活を叶える住居がきっと見つかります。宇治駅(東京都)近辺の賃貸住宅(賃貸マンション、アパート、貸家)の住まい探しは情報豊富なSUUMO(スーモ)で！
+    - generic [ref=e538]:
+      - generic [ref=e540]:
+        - generic [ref=e541]:
+          - link "全国の不動産情報へ" [ref=e542] [cursor=pointer]:
+            - /url: //suumo.jp/
+          - text: "|"
+          - link "関東トップへ" [ref=e543] [cursor=pointer]:
+            - /url: //suumo.jp/kanto/
+        - generic [ref=e545]:
+          - textbox "キーワード検索" [ref=e546]
+          - link "検索する" [ref=e547] [cursor=pointer]:
+            - /url: javascript:void(0);
+      - generic [ref=e549]:
+        - link "不動産・住宅サイト SUUMO（スーモ）" [ref=e551] [cursor=pointer]:
+          - /url: //suumo.jp/
+        - generic [ref=e552]:
+          - link "賃貸" [ref=e553] [cursor=pointer]:
+            - /url: //suumo.jp/chintai/
+          - text: "|"
+          - link "賃貸マンション" [ref=e554] [cursor=pointer]:
+            - /url: //suumo.jp/chintai/mansion/
+          - text: "|"
+          - link "賃貸アパート" [ref=e555] [cursor=pointer]:
+            - /url: //suumo.jp/chintai/apartment/
+          - text: "|"
+          - link "賃貸一戸建て" [ref=e556] [cursor=pointer]:
+            - /url: //suumo.jp/chintai/nj_102/
+          - text: "|"
+          - link "家賃相場" [ref=e557] [cursor=pointer]:
+            - /url: //suumo.jp/chintai/soba/
+          - text: "|"
+          - link "新築分譲マンション" [ref=e558] [cursor=pointer]:
+            - /url: //suumo.jp/ms/shinchiku/
+          - text: "|"
+          - link "中古マンション" [ref=e559] [cursor=pointer]:
+            - /url: //suumo.jp/ms/chuko/
+          - text: "|"
+          - link "新築一戸建て" [ref=e560] [cursor=pointer]:
+            - /url: //suumo.jp/ikkodate/
+          - text: "|"
+          - link "中古一戸建て" [ref=e561] [cursor=pointer]:
+            - /url: //suumo.jp/chukoikkodate/
+          - text: "|"
+          - link "土地" [ref=e562] [cursor=pointer]:
+            - /url: //suumo.jp/tochi/
+          - text: "|"
+          - link "リノベーション物件" [ref=e563] [cursor=pointer]:
+            - /url: //suumo.jp/tokushu/renovation/
+          - text: "|"
+          - link "注文住宅" [ref=e564] [cursor=pointer]:
+            - /url: //suumo.jp/chumon/
+          - text: "|"
+          - link "住宅リフォーム" [ref=e565] [cursor=pointer]:
+            - /url: //suumo.jp/remodel/
+          - text: "|"
+          - link "不動産売却・査定" [ref=e566] [cursor=pointer]:
+            - /url: //suumo.jp/baikyaku/
+          - text: "|"
+          - link "新築相談" [ref=e567] [cursor=pointer]:
+            - /url: https://www.suumocounter.jp/?vos=dsmcrecb20140123007
+          - text: "|"
+          - link "引越し見積もり" [ref=e568] [cursor=pointer]:
+            - /url: //hikkoshi.suumo.jp/
+          - text: "|"
+          - link "住宅ローン" [ref=e569] [cursor=pointer]:
+            - /url: //suumo.jp/loan/
+          - text: "|"
+          - link "物件ライブラリー" [ref=e570] [cursor=pointer]:
+            - /url: //suumo.jp/library/
+          - text: "|"
+          - link "ファイナンシャルプランナー無料相談" [ref=e571] [cursor=pointer]:
+            - /url: https://www.suumocounter.jp/fp/?suit=STct20170606005
+      - generic [ref=e573]:
+        - generic [ref=e574]: SUUMOエリアトップへ
+        - generic [ref=e575]:
+          - link "北海道" [ref=e576] [cursor=pointer]:
+            - /url: //suumo.jp/hokkaido/
+          - text: "|"
+          - link "東北" [ref=e577] [cursor=pointer]:
+            - /url: //suumo.jp/tohoku/
+          - text: "|"
+          - link "関東" [ref=e578] [cursor=pointer]:
+            - /url: //suumo.jp/kanto/
+          - text: "|"
+          - link "甲信越・北陸" [ref=e579] [cursor=pointer]:
+            - /url: //suumo.jp/koshinetsu/
+          - text: "|"
+          - link "東海" [ref=e580] [cursor=pointer]:
+            - /url: //suumo.jp/tokai/
+          - text: "|"
+          - link "関西" [ref=e581] [cursor=pointer]:
+            - /url: //suumo.jp/kansai/
+          - text: "|"
+          - link "四国" [ref=e582] [cursor=pointer]:
+            - /url: //suumo.jp/shikoku/
+          - text: "|"
+          - link "中国" [ref=e583] [cursor=pointer]:
+            - /url: //suumo.jp/chugoku/
+          - text: "|"
+          - link "九州・沖縄" [ref=e584] [cursor=pointer]:
+            - /url: //suumo.jp/kyushu/
+    - generic [ref=e585]:
+      - link "リクルート" [ref=e588] [cursor=pointer]:
+        - /url: https://www.recruit.co.jp/
+        - img "リクルート" [ref=e589]
+      - generic [ref=e590]:
+        - link "初めての方へ" [ref=e591] [cursor=pointer]:
+          - /url: //suumo.jp/edit/beginner/guide/
+        - text: "|"
+        - link "サイトマップ" [ref=e592] [cursor=pointer]:
+          - /url: //suumo.jp/sitemap/
+        - text: "|"
+        - link "利用規約" [ref=e593] [cursor=pointer]:
+          - /url: //cdn.p.recruit.co.jp/terms/suu-t-1003/index.html
+        - text: "|"
+        - link "プライバシーポリシー" [ref=e594] [cursor=pointer]:
+          - /url: //cdn.p.recruit.co.jp/terms/cmn-t-1001/index.html?p=pp005
+        - text: "|"
+        - link "お問い合わせ" [ref=e595] [cursor=pointer]:
+          - /url: //suumo.jp/edit/sogotoiawase/
+      - link "採用情報" [ref=e597] [cursor=pointer]:
+        - /url: https://www.recruit.co.jp/employment/
