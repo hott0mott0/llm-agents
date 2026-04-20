@@ -1,14 +1,14 @@
 ---
-name: chintai-investor
+name: chintai-investigator
 description: SUUMOから条件に合う賃貸物件を調査し、前回との差分があればSlackに通知するスキル。
 metadata:
-    github-path: skills/chintai-investor
+    github-path: skills/chintai-investigator
     github-ref: refs/heads/main
-    github-repo: https://github.com/hott0mott0/chintai-investor
+    github-repo: https://github.com/hott0mott0/chintai-investigator
     github-tree-sha: 3420a5324962a513aede31b8bfd9d020456965b7
 ---
 
-# 賃貸調査くん (chintai-investor)
+# 賃貸調査くん (chintai-investigator)
 
 SUUMOから条件に合う賃貸物件を調査し、前回との差分があればSlackに通知するスキル。
 
