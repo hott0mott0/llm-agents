@@ -1,13 +1,13 @@
 ---
 description: SUUMOから条件に合う賃貸物件を調査し、前回との差分があればSlackに通知するスキル。
 metadata:
-    github-path: skills/chintai-investor
+    github-path: skills/chintai-investigator
     github-ref: refs/heads/main
     github-repo: https://github.com/hott0mott0/llm-agents
     github-tree-sha: 88278c855c13716b4d025fff2e7f358e2064adc4
-name: chintai-investor
+name: chintai-investigator
 ---
-# 賃貸調査くん (chintai-investor)
+# 賃貸調査くん (chintai-investigator)
 
 SUUMOから条件に合う賃貸物件を調査し、前回との差分があればSlackに通知するスキル。
 
