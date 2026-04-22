@@ -1,14 +1,13 @@
 ---
-name: chintai-investigator
 description: SUUMOから条件に合う賃貸物件を調査し、前回との差分があればSlackに通知するスキル。
 metadata:
-    github-path: skills/chintai-investigator
+    github-path: skills/chintai-investor
     github-ref: refs/heads/main
     github-repo: https://github.com/hott0mott0/llm-agents
-    github-tree-sha: 3420a5324962a513aede31b8bfd9d020456965b7
+    github-tree-sha: 88278c855c13716b4d025fff2e7f358e2064adc4
+name: chintai-investor
 ---
-
-# 賃貸調査くん (chintai-investigator)
+# 賃貸調査くん (chintai-investor)
 
 SUUMOから条件に合う賃貸物件を調査し、前回との差分があればSlackに通知するスキル。
 
@@ -38,6 +37,9 @@ SUUMOから条件に合う賃貸物件を調査し、前回との差分があれ
 | 間取り | 1LDK |
 | 築年数 | 20年以内 |
 | 部屋の向き | 南 または 東 |
+| 専有面積 | 35m2 以上 |
+| 駅徒歩 | 最寄り駅から徒歩12分以内 |
+| 建物種別 | マンション (アパート・一戸建てを除外) |
 
 ## 2. SUUMO スクレイピング
 
@@ -77,12 +79,14 @@ SUUMOから条件に合う賃貸物件を調査し、前回との差分があれ
      - 1LDK: `md=04`
      - 築20年以内: `cn=20`
      - 南向き: `tc=0400104`
+     - 専有面積 35m2 以上: `mb=35`
+     - 建物種別 マンションのみ: `ts=1`
    - SUUMO の lightbox はクリック操作が overlay に阻害されやすいので、条件が分かったら URL を直接組んで `navigate` する
 
 4. 検索 URL を固定化する
    - 一度遷移できた検索結果 URL を次回以降の baseline として使う
    - 中野駅の確定済み URL:
-     - `https://suumo.jp/jj/chintai/ichiran/FR301FC001/?ar=030&bs=040&pc=20&smk=&po1=25&po2=99&shkr1=03&shkr2=03&shkr3=03&shkr4=03&rn=0305&ek=030527280&ra=013&cb=0.0&ct=23.0&co=1&md=04&et=9999999&mb=0&mt=9999999&cn=20&fw2=`
+     - `https://suumo.jp/jj/chintai/ichiran/FR301FC001/?ar=030&bs=040&pc=50&smk=&po1=25&po2=99&shkr1=03&shkr2=03&shkr3=03&shkr4=03&rn=0305&ek=030527280&ra=013&cb=0.0&ct=23.0&co=1&md=04&et=9999999&mb=35&mt=9999999&cn=20&fw2=&ts=1`
    - 次回以降はこの URL に直接 `navigate` して一覧取得から始めてよい
 
 5. 一覧から候補を取る
